@@ -17,7 +17,7 @@ interface Props {
   onClose: () => void;
   title: string;
   className?: string;
-  buttonText: string;
+  buttonText?: string;
   handleClick?: () => void;
   children?: React.ReactNode;
   image?: string;
