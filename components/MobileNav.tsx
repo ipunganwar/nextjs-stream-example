@@ -41,7 +41,7 @@ const MobileNav = () => {
               alt="Logo"
               className="max-sm:size-10"
             />
-            <p className="text-white text-[26px] font-extrabold">Yoom</p>
+            <p className="text-white text-[26px] font-extrabold">Fake-Zoom</p>
           </Link>
 
           <div className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
