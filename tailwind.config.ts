@@ -34,13 +34,13 @@ const config = {
           3: "#F5FCFF",
         },
         orange: {
-          1: "#FF742E",
+          1: "#00cc66",
         },
         purple: {
-          1: "#830EF9",
+          1: "#ff5050",
         },
         yellow: {
-          1: "#F9A90E",
+          1: "#ff9933",
         },
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
